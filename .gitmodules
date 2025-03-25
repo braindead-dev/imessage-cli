@@ -1,0 +1,3 @@
+[submodule "rustpush/vendor/apple-private-apis"]
+	path = rustpush/vendor/apple-private-apis
+	url = https://github.com/OpenBubbles/apple-private-apis.git
